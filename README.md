@@ -1,5 +1,6 @@
 # projeto_controlador_luz
 Este artigo descreve o projeto de Controlador de Luz, desenvolvido para auxiliar no controle de lâmpadas uma vez que possibilita o ajuste preciso de luminosidade da mesma.
+
 Introdução
 
 	Com o desenvolvimento das áreas de Computação, Engenharia, Matemática, Mecatrônica e o surgimento da IoT, podemos observar a evolução de ideias que modifica o dia a dia das pessoas e dos ambientes. Através da tecnologia de IoT podemos transformar coisas e objetos para facilitar a vida das pessoas, sociedade e do mundo.
@@ -20,10 +21,8 @@ Hardware
 •	Fios de conexão – jumpers
 O projeto conta com sensor infravermelho para captar comando de desligar a luz, potenciômetro virtual para controle de intensidade, dashboard para controle de intensidade, monitor de potência e histórico de uso, comunicação de rede para replicação dos controles da luz e dashboard monitorando potência da luz remota.
 Software
-Precisamos carregar o sketch StandardFirmata no software do Arduino. Esse sketch vem como exemplo quando você instala o ambiente do Arduino, portanto podemos carrega-lo utilizando o menu arquivo – exemplo – firmata – StandardFirmata, como mostrado na figura1-4
+Precisamos carregar o sketch StandardFirmata no software do Arduino. Esse sketch vem como exemplo quando você instala o ambiente do Arduino, portanto podemos carrega-lo utilizando o menu arquivo – exemplo – firmata – StandardFirmata.
  
-Figura1.1
-
 Passos da instalação dos softwares
 Passo 1 – Instalação da IDE do Arduino (https://www.arduino.cc/en/software)
 Passo 2 – Instalação de correção de drivers do Arduino Genérico (https://drive.google.com/file/d/0B2YXepPR2qlAdkR6eXNDMVU3a0E/view)
